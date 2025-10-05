@@ -1,0 +1,10 @@
+# Binaries
+inverse
+lostfound
+traffic
+*.exe
+*.out
+*.o
+*.obj
+*.log
+.DS_Store
